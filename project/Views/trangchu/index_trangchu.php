@@ -9,24 +9,24 @@
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="public/css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="public/css/animate.css">
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
     
-    <link rel="stylesheet" href="public/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="public/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="public/css/magnific-popup.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
 
-    <link rel="stylesheet" href="public/css/aos.css">
+    <link rel="stylesheet" href="css/aos.css">
 
-    <link rel="stylesheet" href="public/css/ionicons.min.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
 
-    <link rel="stylesheet" href="public/css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="public/css/jquery.timepicker.css">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
 
     
-    <link rel="stylesheet" href="public/css/flaticon.css">
-    <link rel="stylesheet" href="public/css/icomoon.css">
-    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
   <body class="goto-here">
 		<div class="py-1 bg-primary">
@@ -83,7 +83,7 @@
 
     <section id="home-section" class="hero">
 		  <div class="home-slider owl-carousel">
-	      <div class="slider-item" style="background-image: url(public/images/nth1.jpg);">
+	      <div class="slider-item" style="background-image: url(images/nth1.jpg);">
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -91,14 +91,14 @@
 	            <div class="col-md-12 ftco-animate text-center">
 	              <h1 class="mb-2">Dễ Dàng Quản lý Gia Phả </h1>
 	              <h2 class="subheading mb-4">Tiện Lợi &amp; Chính Xác</h2>
-	              <p><a href="../Login_v8/Sign in.html" class="btn btn-primary">Đăng nhập</a></p>
+	              <p><a href="#" class="btn btn-primary">Đăng nhập</a></p>
 	            </div>
 
 	          </div>
 	        </div>
 	      </div>
 
-	      <div class="slider-item" style="background-image: url(public/images/nth2.jpg);">
+	      <div class="slider-item" style="background-image: url(images/nth2.jpg);">
 	      	<div class="overlay"></div>
 	        <div class="container">
 	          <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
@@ -106,7 +106,7 @@
 	            <div class="col-sm-12 ftco-animate text-center">
 	              <h1 class="mb-2">Tin tức Mới nhất của các Dòng họ </h1>
 	              <h2 class="subheading mb-4">Nhanh Chóng &amp; Hữu Ích</h2>
-	              <p><a href="#" class="btn btn-primary">Đăng nhập</a></p>
+	              <p><a href="../Login_v8/Sign in.html" class="">Đăng nhập</a></p>
 	            </div>
 
 	          </div>
@@ -709,22 +709,22 @@
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
 	
-  <script src="public/js/jquery.min.js"></script>
-  <script src="public/js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="public/js/popper.min.js"></script>
-  <script src="public/js/bootstrap.min.js"></script>
-  <script src="public/js/jquery.easing.1.3.js"></script>
-  <script src="public/js/jquery.waypoints.min.js"></script>
-  <script src="public/js/jquery.stellar.min.js"></script>
-  <script src="public/js/owl.carousel.min.js"></script>
-  <script src="public/js/jquery.magnific-popup.min.js"></script>
-  <script src="public/js/aos.js"></script>
-  <script src="public/js/jquery.animateNumber.min.js"></script>
-  <script src="public/js/bootstrap-datepicker.js"></script>
-  <script src="public/js/scrollax.min.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/bootstrap-datepicker.js"></script>
+  <script src="js/scrollax.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="public/js/google-map.js"></script>
-  <script src="public/js/main.js"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
     
   </body>
 </html>
