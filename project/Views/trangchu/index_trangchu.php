@@ -91,7 +91,7 @@
 	            <div class="col-md-12 ftco-animate text-center">
 	              <h1 class="mb-2">Dễ Dàng Quản lý Gia Phả </h1>
 	              <h2 class="subheading mb-4">Tiện Lợi &amp; Chính Xác</h2>
-	              <p><a href="../Login_v8/Sign in.html" class="btn btn-primary">Đăng nhập</a></p>
+	              <p><a href="#" class="btn btn-primary">Đăng nhập</a></p>
 	            </div>
 
 	          </div>
