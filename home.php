@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Analytics Dashboard - This is an example dashboard created using build-in elements and components.</title>
+    <title>Quan ly Gia Pha</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
     <meta name="description" content="This is an example dashboard created using build-in elements and components.">
     <meta name="msapplication-tap-highlight" content="no">
@@ -21,6 +21,7 @@
     * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     -->
 <link href="./public/main.css" rel="stylesheet"></head>
+
 <body>
     <div class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header">
         <div class="app-header header-shadow">
@@ -410,21 +411,21 @@
                                 <li class="app-sidebar__heading">Dòng họ</li>
                                 <li>
                                     <a href="index.html" class="mm-active">
-                                        <i class="metismenu-icon pe-7s-rocket"></i>
+                                        <i class=""></i>
                                         Thông tin dòng họ
 
                                     </a>
                                 </li>
                                 <li>
                                     <a href="index.html" class="mm-active">
-                                        <i class="metismenu-icon pe-7s-rocket"></i>
+                                        <i class=""></i>
                                         Quản lý phả đồ
                                         
                                     </a>
                                 </li>
                                 <li>
                                     <a href="index.html" class="mm-active">
-                                        <i class="metismenu-icon pe-7s-rocket"></i>
+                                        <i class=""></i>
                                         Album Ảnh
                                         
                                     </a>
@@ -442,9 +443,9 @@
                                     
                                 >
                                     <a href="#">
-                                        <i class="metismenu-icon pe-7s-diamond"></i>
+                                        <i class=""></i>
                                         Viết bài
-                                        <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                        <i class=""></i>
                                     </a>
                                     <!-- <ul
                                         
@@ -506,23 +507,11 @@
                                         </li>
                                     </ul> -->
                                 </li>
-                                <li
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                    
-                                >
+                                <li>
                                     <a href="#">
-                                        <i class="metismenu-icon pe-7s-car"></i>
+                                        <i class=""></i>
                                         Quản lý tin tức
-                                        <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
+                                        <i class=""></i>
                                     </a>
                                     <!-- <ul
                                         
@@ -621,19 +610,19 @@
                                 <li class="app-sidebar__heading">Tin nhắn</li>
                                 <li>
                                     <a href="forms-controls.html">
-                                        <i class="metismenu-icon pe-7s-mouse">
+                                        <i class="">
                                         </i>Soạn tin nhắn
                                     </a>
                                 </li>
                                 <li>
                                     <a href="forms-layouts.html">
-                                        <i class="metismenu-icon pe-7s-eyedropper">
+                                        <i class="">
                                         </i>Hộp thư đến
                                     </a>
                                 </li>
                                 <li>
                                     <a href="forms-validation.html">
-                                        <i class="metismenu-icon pe-7s-pendrive">
+                                        <i class="">
                                         </i>Tin đã gửi
                                     </a>
                                 </li>
