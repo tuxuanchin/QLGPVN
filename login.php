@@ -40,7 +40,7 @@
 						</button>
 					</div>
 					<div class="container-login100-form-btn">
-						<button class="login100-form-btn" onclick="location.href='../page/index_trangchu.html';">
+						<button class="login100-form-btn" onclick="location.href='index.php';">
 							Huỷ
 						</button>
 					</div>
